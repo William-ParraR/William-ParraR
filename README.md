@@ -1,6 +1,10 @@
 <div align="center">
 
-![William Andres Parra Rueda](./header.svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=100&pause=99999&color=58A6FF&background=0D111700&center=true&vCenter=true&width=700&height=70&lines=WILLIAM+ANDRES+PARRA+RUEDA" alt="William Andres Parra Rueda" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=100&pause=99999&color=8B949E&background=0D111700&center=true&vCenter=true&width=700&height=30&lines=Ing.+Electrónico+·+Full+Stack+Developer+·+AI+Engineer" alt="roles" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-parra-rueda)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wapr2184@gmail.com)

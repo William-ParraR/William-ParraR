@@ -1,19 +1,6 @@
 <div align="center">
 
-```
-██╗    ██╗██╗██╗     ██╗     ██╗ █████╗ ███╗   ███╗
-██║    ██║██║██║     ██║     ██║██╔══██╗████╗ ████║
-██║ █╗ ██║██║██║     ██║     ██║███████║██╔████╔██║
-██║███╗██║██║██║     ██║     ██║██╔══██║██║╚██╔╝██║
-╚███╔███╔╝██║███████╗███████╗██║██║  ██║██║ ╚═╝ ██║
- ╚══╝╚══╝ ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-
-P A R R A   R U E D A
-```
-
-### `Ingeniero Electrónico` · `Full Stack Developer` · `AI Engineer`
-
-> *Del espectro radioeléctrico al edge computing — construyendo donde pocos se aventuran.*
+![William Andres Parra Rueda](./header.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-parra-rueda)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wapr2184@gmail.com)
@@ -79,17 +66,6 @@ Me encuentro en plena transición hacia el desarrollo **Full Stack** e **Ingenie
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Engineering-FF6F00?style=flat-square)
-
----
-
-## 🌱 Aprendiendo ahora
-
-```text
-AWS          ████████░░░░  EC2 · Lambda · S3 · API Gateway
-Cloudflare   ██████████░░  Workers · D1 · Pages
-Full Stack   ████████░░░░  Arquitecturas modernas
-IA / LLMs    ██████░░░░░░  RAG · Agentes · Integración
-```
 
 ---
 

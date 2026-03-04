@@ -1,0 +1,115 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+      .bg { fill: #0d1117; }
+
+      .name {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 38px;
+        fill: #58a6ff;
+        letter-spacing: 4px;
+      }
+
+      .sub {
+        font-family: 'Share Tech Mono', 'Courier New', monospace;
+        font-size: 15px;
+        fill: #8b949e;
+        letter-spacing: 2px;
+      }
+
+      .cursor {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 38px;
+        fill: #58a6ff;
+        animation: blink 1s step-start infinite;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+
+      .char1  { animation: fadeIn 0.1s 0.1s both; }
+      .char2  { animation: fadeIn 0.1s 0.2s both; }
+      .char3  { animation: fadeIn 0.1s 0.3s both; }
+      .char4  { animation: fadeIn 0.1s 0.4s both; }
+      .char5  { animation: fadeIn 0.1s 0.5s both; }
+      .char6  { animation: fadeIn 0.1s 0.6s both; }
+      .char7  { animation: fadeIn 0.1s 0.7s both; }
+      .char8  { animation: fadeIn 0.1s 0.8s both; }
+      .char9  { animation: fadeIn 0.1s 0.9s both; }
+      .char10 { animation: fadeIn 0.1s 1.0s both; }
+      .char11 { animation: fadeIn 0.1s 1.1s both; }
+      .char12 { animation: fadeIn 0.1s 1.2s both; }
+      .char13 { animation: fadeIn 0.1s 1.3s both; }
+      .char14 { animation: fadeIn 0.1s 1.4s both; }
+      .char15 { animation: fadeIn 0.1s 1.5s both; }
+      .char16 { animation: fadeIn 0.1s 1.6s both; }
+      .char17 { animation: fadeIn 0.1s 1.7s both; }
+      .char18 { animation: fadeIn 0.1s 1.8s both; }
+      .char19 { animation: fadeIn 0.1s 1.9s both; }
+      .char20 { animation: fadeIn 0.1s 2.0s both; }
+      .char21 { animation: fadeIn 0.1s 2.1s both; }
+      .char22 { animation: fadeIn 0.1s 2.2s both; }
+      .char23 { animation: fadeIn 0.1s 2.3s both; }
+      .char24 { animation: fadeIn 0.1s 2.4s both; }
+      .char25 { animation: fadeIn 0.1s 2.5s both; }
+      .char26 { animation: fadeIn 0.1s 2.6s both; }
+
+      .sub1  { animation: fadeIn 0.1s 2.8s both; }
+      .sub2  { animation: fadeIn 0.1s 3.0s both; }
+      .sub3  { animation: fadeIn 0.1s 3.2s both; }
+
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="120" class="bg" rx="10"/>
+
+  <!-- Prompt symbol -->
+  <text x="30" y="55" class="name" style="fill:#3fb950;">❯</text>
+
+  <!-- W I L L I A M   A N D R E S   P A R R A   R U E D A -->
+  <text x="65"  y="55" class="name char1">W</text>
+  <text x="95"  y="55" class="name char2">I</text>
+  <text x="113" y="55" class="name char3">L</text>
+  <text x="135" y="55" class="name char4">L</text>
+  <text x="157" y="55" class="name char5">I</text>
+  <text x="175" y="55" class="name char6">A</text>
+  <text x="203" y="55" class="name char7">M</text>
+  <text x="235" y="55" class="name char8"> </text>
+  <text x="255" y="55" class="name char9">A</text>
+  <text x="283" y="55" class="name char10">N</text>
+  <text x="311" y="55" class="name char11">D</text>
+  <text x="337" y="55" class="name char12">R</text>
+  <text x="362" y="55" class="name char13">E</text>
+  <text x="386" y="55" class="name char14">S</text>
+  <text x="410" y="55" class="name char15"> </text>
+  <text x="430" y="55" class="name char16">P</text>
+  <text x="456" y="55" class="name char17">A</text>
+  <text x="484" y="55" class="name char18">R</text>
+  <text x="509" y="55" class="name char19">R</text>
+  <text x="534" y="55" class="name char20">A</text>
+  <text x="562" y="55" class="name char21"> </text>
+  <text x="582" y="55" class="name char22">R</text>
+  <text x="607" y="55" class="name char23">U</text>
+  <text x="635" y="55" class="name char24">E</text>
+  <text x="660" y="55" class="name char25">D</text>
+  <text x="686" y="55" class="name char26">A</text>
+
+  <!-- Blinking cursor after last char -->
+  <text x="714" y="55" class="cursor">|</text>
+
+  <!-- Subtitle line -->
+  <text x="65" y="90" class="sub sub1">Ing. Electrónico</text>
+  <text x="260" y="90" class="sub sub2" style="fill:#3fb950;">·</text>
+  <text x="278" y="90" class="sub sub2">Full Stack Developer</text>
+  <text x="510" y="90" class="sub sub3" style="fill:#3fb950;">·</text>
+  <text x="528" y="90" class="sub sub3">AI Engineer</text>
+</svg>
